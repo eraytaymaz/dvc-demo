@@ -1,1 +1,4 @@
-
+[core]
+    remote = dataset
+['remote "dataset"']
+    url = /home/pi/Desktop/dataset
