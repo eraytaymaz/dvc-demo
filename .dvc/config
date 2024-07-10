@@ -1,6 +1,8 @@
 [core]
-    remote = remote-demo
+    remote = dataset
 ['remote "remote-demo"']
     url = ../home/pi/Desktop/remote
 ['remote "local"']
     url = /home/pi/remote
+['remote "dataset"']
+    url = ../../dataset
