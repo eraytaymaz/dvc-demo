@@ -1,0 +1,4 @@
+[core]
+    remote = remote-demo
+['remote "remote-demo"']
+    url = ../home/pi/Desktop/remote
