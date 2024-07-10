@@ -2,3 +2,5 @@
     remote = remote-demo
 ['remote "remote-demo"']
     url = ../home/pi/Desktop/remote
+['remote "local"']
+    url = /home/pi/remote
