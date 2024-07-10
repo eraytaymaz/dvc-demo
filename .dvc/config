@@ -2,3 +2,5 @@
     remote = dataset
 ['remote "dataset"']
     url = ../../dataset
+['remote "test"']
+    url = /home/pi/Desktop/test
